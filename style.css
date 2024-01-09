@@ -1,37 +1,44 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-  background-color: #999494;
+  background-color: #ffffff;
   color: red;
   padding: 128px 16px;
   text-align: center;
-  border: 3px outset white;
-  border-bottom-color: red;
-  border-top-color: darkgray;
-  background-image: url(https://assets.entrepreneur.com/content/3x2/2000/20151117173447-prision-jail-man-inmate-under-arrest.jpeg);
+  border-bottom-color: #080707;
+  border-top-color: #a8a8a8;
+  background-image: url(https://assets.entrepreneur.com/content/3x2/2000/20151117173447-prision-jail-man-inmate-under-arrest.jpeg); width: 800px;
   background-size: 900px;
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 body {
-  background-color: #8f8f8f;
+  background-color: #ffffff;
+  background-image: url(https://wallpapertag.com/wallpaper/full/9/7/8/170579-light-gray-background-1920x1080-hd-1080p.jpg);
   color: red;
-  p{
+
+  p {
     font-size: 15px;
+    color: black
   }
 
   h1 {
     font-style: italic;
 
   }
-.header-1{
-  text-align: center;
-  color: white;
-}
+
+  .header-1 {
+    text-align: center;
+    color: black;
+  }
+
   .header-2 {
-    color: red;
+    color: black;
     text-align: center
   }
-  .header-3{
+
+  .header-3 {
     text-align: center;
+    color: black;
+    
   }
